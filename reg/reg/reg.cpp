@@ -3,8 +3,12 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello git\n";
-	cout << "just cout\n";
 	
+	cout << "just cout\n";
+<<<<<<< HEAD
+	
+=======
+	cout << "new branch\n";
+>>>>>>> newIdea
 	return 0;
 }
