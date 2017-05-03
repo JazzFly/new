@@ -3,12 +3,8 @@ using namespace std;
 
 int main()
 {
-	
 	cout << "just cout\n";
-<<<<<<< HEAD
-	
-=======
 	cout << "new branch\n";
->>>>>>> newIdea
+	cout << "new branch new\n";
 	return 0;
 }
